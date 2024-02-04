@@ -9,7 +9,7 @@
     "dev": "nodemon src/index.ts"
   },
   "keywords": [],
-  "author": "",
+  "author": "Joshwa Facistol",
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.2",

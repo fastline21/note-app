@@ -5,6 +5,7 @@ This is a basic note app. It has a CRUD functionality. The basic fields for the 
 ## Setup
 
 - Create `data` folder in the root directory for data storage
+- run `npm install` to install node modules
 - run `npm run build` to build source code
 - run `npm start` to start the app.
 
